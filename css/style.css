@@ -108,9 +108,9 @@ header h1 {
 
 header h1 span {
   position: relative;
-  font-size: 350px;
+  font-size: 200px;
   line-height: 69%;
-  letter-spacing: -26px;
+  letter-spacing: -8px;
   display: block;
   -webkit-transition: font-size 0.2s, letter-spacing 0.2s, line-height 0.2s;
   -moz-transition: font-size 0.2s, letter-spacing 0.2s, line-height 0.2s;
