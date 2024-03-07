@@ -4,21 +4,21 @@
 
 [travis]: https://travis-ci.org/javascriptconferences/javascriptconferences.github.io
 
-[JavaScriptConferences.org][r] is a simple list of Ruby conferences, published
-collaboratively with the Ruby community.
+[JavaScriptConferences.org][r] is a simple list of JavaScript conferences, published
+collaboratively with the JavaScript community.
 
 [r]: https://javascriptconferences.org/
 
 ## Eligible Conferences
 
 Focus is a goal of this project and as a result, only conferences that are
-specifically for Ruby are listed. That means that if a conference covers Ruby,
-but is not specifically for Rubyists, then it is left out.
+specifically for JavaScript are listed. That means that if a conference covers JavaScript,
+but is not specifically for the JavaScript developer community, then it is left out.
 
 A good rule of thumb for whether a conference should be included is if its name
-includes either Ruby or Rails and how it describes itself. A conference that
+includes either JavaScript, TypeScript or Node.js and how it describes itself. A conference that
 describes itself as a "Conference on Web Development" might be an awesome event,
-but it's probably not a Ruby conference.
+but it might not be a purely JavaScript conference (ask questions if you're not sure!).
 
 ## Contributing
 
