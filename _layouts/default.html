@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" name="viewport">
-    <meta content="A curated calendar of Ruby conferences worldwide, including speaking opportunities and registration info." name="description">
-    <title>Ruby Conferences</title>
+    <meta content="A curated calendar of JavaScript conferences worldwide, including speaking opportunities and registration info." name="description">
+    <title>JavaScript Conferences</title>
     <link href="//fonts.googleapis.com/css?family=Squada+One" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Exo+2:300,400" rel="stylesheet" type="text/css">
     <link href="/css/style.css" rel="stylesheet" type="text/css">
@@ -29,6 +29,7 @@
       {{ content }}
       <footer>
         <p>maintained by <a href="https://alexbevi.com">Alex Bevilacqua</a></p>
+        <p>"inspired" by <a href="https://rubyconferences.org/">rubyconferences.org</a>, which is created &amp; maintained by <a href="http://jonallured.com/">Jon Allured</a></p>
         <p>original design &amp; markup by <a href="https://www.camerondaigle.com/">Cameron Daigle</a></p>
         <ul>
           <li><a href="https://twitter.com/alexbevi">@alexbevi</a></li>
@@ -36,15 +37,14 @@
           <li><a href="https://javascriptconferences.org/calendar.ics">ics calendar feed</a></li>
         </ul>
       </footer>
-      <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(["_setAccount", "UA-3137727-6"]);
-        _gaq.push(["_trackPageview"]);
-        (function() {
-          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-          ga.src = ('https:' == document.location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-61YQ3W1Q92"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-61YQ3W1Q92');
       </script>
     </div>
   </body>
