@@ -1,15 +1,13 @@
-# Ruby Conferences
+# JavaScript Conferences
 
-[![Build Status](https://travis-ci.org/ruby-conferences/ruby-conferences.github.io.svg)][travis]
+[![Build Status](https://travis-ci.org/javascriptconferences/javascriptconferences.github.io.svg)][travis]
 
-[travis]: https://travis-ci.org/ruby-conferences/ruby-conferences.github.io
+[travis]: https://travis-ci.org/javascriptconferences/javascriptconferences.github.io
 
-[RubyConferences.org][r] is a simple list of Ruby conferences, published
-collaboratively with the Ruby community. Updates are sometimes posted to
-[@rubyconferences][t].
+[JavaScriptConferences.org][r] is a simple list of Ruby conferences, published
+collaboratively with the Ruby community.
 
-[r]: https://rubyconferences.org/
-[t]: https://twitter.com/rubyconferences
+[r]: https://javascriptconferences.org/
 
 ## Eligible Conferences
 
