@@ -4,4 +4,15 @@
   end_date: 2024-04-05
   url: https://london.cityjsconf.org/
   twitter: cityjsconf
-
+- name: JSNation
+  location: Amsterdam (Hybrid)
+  start_date: 2024-06-13
+  end_date: 2024-06-13
+  url: https://jsnation.com/
+  twitter: thejsnation
+- name: JSNation
+  location: Online
+  start_date: 2024-06-17
+  end_date: 2024-06-17
+  url: https://jsnation.com/
+  twitter: thejsnation
